@@ -5,19 +5,6 @@ The Currency Converter project allows users to convert an amount in INR (Indian 
 
 ---
 
-### 🔹 Version 1 — Offline Currency Converter (Fixed Rates)
-
-This version uses hardcoded conversion rates and works **without internet access**.  
-It’s ideal for demonstrating basic programming logic and console input handling.
-
-**Features:**
-- Converts INR to multiple currencies (USD, EUR, GBP, JPY, etc.)
-- Console-based menu-driven system
-- Supports repeated conversions until the user exits
-
----
-
-### 🔹 Version 2 — Real-Time API Currency Converter
 
 This enhanced version fetches **live exchange rates** from a public REST API using:
 
